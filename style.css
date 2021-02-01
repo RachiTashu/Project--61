@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background: linear-gradient (#e0f02b 0%, #38e867 100%)
+}
+
+img {
+    border-radius: 50%;
+    width: 140px;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: 'Londrina Solid', cursive;
+}
+
+p {
+    font-size: 20px;
+    color: #e8385b;
+}
+
+#name {
+    font-family: 'Dancing Script', cursive;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
